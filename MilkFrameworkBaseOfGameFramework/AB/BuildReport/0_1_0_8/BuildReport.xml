@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>EasyMatch</ProductName>
+      <CompanyName>MilkGame</CompanyName>
+      <GameIdentifier>com.milkgame.easymatch</GameIdentifier>
+      <GameFrameworkVersion>2020.07.30</GameFrameworkVersion>
+      <UnityVersion>2017.4.32f1</UnityVersion>
+      <ApplicableGameVersion>0.1.0</ApplicableGameVersion>
+      <InternalResourceVersion>8</InternalResourceVersion>
+      <Platforms>Android</Platforms>
+      <ZipSelected>True</ZipSelected>
+      <BuildAssetBundleOptions>272</BuildAssetBundleOptions>
+    </Summary>
+    <Resources Count="18">
+      <Resource Name="Configs" Extension="dat" FileSystem="GameData" LoadType="0" Packed="True" ResourceGroups="Base">
+        <Assets Count="2">
+          <Asset Guid="44c8db52241385c45bbb14a1718f17bf" Name="Assets/GameMain/Configs/DefaultConfig.txt" Length="162" HashCode="1970827408" />
+          <Asset Guid="7fd11dc5d29076d469d414dec2818f11" Name="Assets/GameMain/Configs/DefaultConfig.bytes" Length="45" HashCode="698598607" />
+        </Assets>
+        <Codes>
+          <Android Length="1297" HashCode="332204527" ZipLength="1094" ZipHashCode="1468642075" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables" Extension="dat" FileSystem="GameData" LoadType="0" Packed="True" ResourceGroups="Base">
+        <Assets Count="12">
+          <Asset Guid="315e8ed2db27c254cb3366ff0793cd90" Name="Assets/GameMain/DataTables/Music.txt" Length="254" HashCode="141271682" />
+          <Asset Guid="352da872791696c48af3b21132e3e3c3" Name="Assets/GameMain/DataTables/UIForm.txt" Length="628" HashCode="691786543" />
+          <Asset Guid="372a8b1e52bedc64b9207b12d167afaa" Name="Assets/GameMain/DataTables/Sound.txt" Length="868" HashCode="-981921304" />
+          <Asset Guid="8e114ded6a865324588170636872943c" Name="Assets/GameMain/DataTables/UISound.bytes" Length="29" HashCode="-540465734" />
+          <Asset Guid="97d117308cf86924289e81e7e71dd5dd" Name="Assets/GameMain/DataTables/Entity.bytes" Length="230" HashCode="-1176981906" />
+          <Asset Guid="9b433f0bb7fef6f4085c316a0d88c307" Name="Assets/GameMain/DataTables/Music.bytes" Length="46" HashCode="-102054710" />
+          <Asset Guid="9c3faac13c8ced84a9f3018303b7bb98" Name="Assets/GameMain/DataTables/Sound.bytes" Length="167" HashCode="-1089466089" />
+          <Asset Guid="a33e23ae848110243820cda82120b105" Name="Assets/GameMain/DataTables/UIForm.bytes" Length="90" HashCode="-1923546927" />
+          <Asset Guid="a71f8bb1b1b2c51438e2bafc884cb02c" Name="Assets/GameMain/DataTables/Scene.txt" Length="240" HashCode="-1388433476" />
+          <Asset Guid="cfe53cf384344bd47a8680f8c5f97a7b" Name="Assets/GameMain/DataTables/Entity.txt" Length="848" HashCode="1017285111" />
+          <Asset Guid="f2f97a713beae744181ba934f9c4113a" Name="Assets/GameMain/DataTables/UISound.txt" Length="334" HashCode="1201326981" />
+          <Asset Guid="fdb5edd099d06b045af609ba3172400a" Name="Assets/GameMain/DataTables/Scene.bytes" Length="16" HashCode="-1984402515" />
+        </Assets>
+        <Codes>
+          <Android Length="3005" HashCode="467895982" ZipLength="2615" ZipHashCode="-898827624" />
+        </Codes>
+      </Resource>
+      <Resource Name="Fonts" Extension="dat" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base">
+        <Assets Count="1">
+          <Asset Guid="77cbb7c5404c10242ab59953e0746314" Name="Assets/GameMain/Fonts/MainFont.ttf" Length="7070444" HashCode="-915020890" />
+        </Assets>
+        <Codes>
+          <Android Length="4648174" HashCode="-1102056151" ZipLength="4063683" ZipHashCode="-457132711" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/Dictionaries" Variant="en-us" Extension="dat" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base">
+        <Assets Count="1">
+          <Asset Guid="14869ac0d4433f04db1704e39d03412e" Name="Assets/GameMain/Localization/English/Dictionaries/Default.xml" Length="1971" HashCode="1436356205" />
+        </Assets>
+        <Codes>
+          <Android Length="2123" HashCode="2004178279" ZipLength="1776" ZipHashCode="1840112048" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/Dictionaries" Variant="ko-kr" Extension="dat" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base">
+        <Assets Count="1">
+          <Asset Guid="5dcd89912e222bf4c87f76db4044bc5e" Name="Assets/GameMain/Localization/Korean/Dictionaries/Default.xml" Length="2161" HashCode="298362949" />
+        </Assets>
+        <Codes>
+          <Android Length="2188" HashCode="339528285" ZipLength="1900" ZipHashCode="1508226562" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/Dictionaries" Variant="zh-cn" Extension="dat" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base">
+        <Assets Count="1">
+          <Asset Guid="9be2e1e45f4edd74c8764538ad306b78" Name="Assets/GameMain/Localization/ChineseSimplified/Dictionaries/Default.xml" Length="1900" HashCode="-822664770" />
+        </Assets>
+        <Codes>
+          <Android Length="2081" HashCode="-990660558" ZipLength="1816" ZipHashCode="-10099978" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/Dictionaries" Variant="zh-tw" Extension="dat" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base">
+        <Assets Count="1">
+          <Asset Guid="1053b0070685be347ab58587156842dc" Name="Assets/GameMain/Localization/ChineseTraditional/Dictionaries/Default.xml" Length="1901" HashCode="-1957327408" />
+        </Assets>
+        <Codes>
+          <Android Length="2086" HashCode="1339493804" ZipLength="1821" ZipHashCode="-1562770953" />
+        </Codes>
+      </Resource>
+      <Resource Name="Materials" Extension="dat" FileSystem="Resources" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="185f97f18bd603a478461ce9c08bd039" Name="Assets/GameMain/Materials/part_star_mat.mat" Length="776" HashCode="252208735" />
+          <Asset Guid="955000b4d1441470e8cbf94f483228b5" Name="Assets/GameMain/Materials/done_tile_nebula_green_dff.mat" Length="789" HashCode="-145053111">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/GameMain/Textures/tile_nebula_green_dff.tif" />
+            </DependencyAssets>
+          </Asset>
+        </Assets>
+        <Codes>
+          <Android Length="2126" HashCode="518543215" ZipLength="1729" ZipHashCode="-895433958" />
+        </Codes>
+      </Resource>
+      <Resource Name="Music/About" Extension="dat" FileSystem="Resources" LoadType="0" Packed="True" ResourceGroups="Music">
+        <Assets Count="1">
+          <Asset Guid="093f8873cfe371d41b854ed9fb6bff69" Name="Assets/GameMain/Music/music_about.mp3" Length="5188156" HashCode="-1448743119" />
+        </Assets>
+        <Codes>
+          <Android Length="1953137" HashCode="-1543218159" ZipLength="1944215" ZipHashCode="-945762746" />
+        </Codes>
+      </Resource>
+      <Resource Name="Music/Background" Extension="dat" FileSystem="Resources" LoadType="0" Packed="True" ResourceGroups="Music">
+        <Assets Count="1">
+          <Asset Guid="638ff8ae4a0d15047839cd265d3bc296" Name="Assets/GameMain/Music/music_background.mp3" Length="2336432" HashCode="588648626" />
+        </Assets>
+        <Codes>
+          <Android Length="79954" HashCode="1724184746" ZipLength="79444" ZipHashCode="-230124435" />
+        </Codes>
+      </Resource>
+      <Resource Name="Music/Menu" Extension="dat" FileSystem="Resources" LoadType="0" Packed="True" ResourceGroups="Music">
+        <Assets Count="1">
+          <Asset Guid="caa829ab2ffc71340a69253afdf58365" Name="Assets/GameMain/Music/music_menu.mp3" Length="1866065" HashCode="306016124" />
+        </Assets>
+        <Codes>
+          <Android Length="625992" HashCode="-1162316998" ZipLength="623460" ZipHashCode="-1236612496" />
+        </Codes>
+      </Resource>
+      <Resource Name="Scenes" Extension="dat" FileSystem="Resources" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="4473d81b14ddb0143addf0e6050d8491" Name="Assets/GameMain/Scenes/Main.unity" Length="95971" HashCode="-488537534">
+            <DependencyAssets Count="2">
+              <DependencyAsset Name="Assets/GameMain/Materials/done_tile_nebula_green_dff.mat" />
+              <DependencyAsset Name="Assets/GameMain/Materials/part_star_mat.mat" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="b031b4f2980561542a7f7ba41391edc3" Name="Assets/GameMain/Scenes/Menu.unity" Length="91992" HashCode="-1378139879">
+            <DependencyAssets Count="2">
+              <DependencyAsset Name="Assets/GameMain/Materials/done_tile_nebula_green_dff.mat" />
+              <DependencyAsset Name="Assets/GameMain/Materials/part_star_mat.mat" />
+            </DependencyAssets>
+          </Asset>
+        </Assets>
+        <Codes>
+          <Android Length="58095" HashCode="678386796" ZipLength="22025" ZipHashCode="-1636185102" />
+        </Codes>
+      </Resource>
+      <Resource Name="Textures" Extension="dat" FileSystem="Resources" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="71646ebaae78d43aeb8b53cacdb69671" Name="Assets/GameMain/Textures/tile_nebula_green_dff.tif" Length="9705884" HashCode="-1662044067" />
+        </Assets>
+        <Codes>
+          <Android Length="681993" HashCode="-1173131871" ZipLength="592836" ZipHashCode="556174084" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UIForms" Extension="dat" FileSystem="UI" LoadType="0" Packed="True">
+        <Assets Count="4">
+          <Asset Guid="04d7dde7615d71b4db1a0c8d67a62e95" Name="Assets/GameMain/UI/UIForms/DialogForm.prefab" Length="56987" HashCode="-646401918">
+            <DependencyAssets Count="4">
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/button-outline.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/dialog-background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/dialog-title-background.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="09966b19e546cc94aa84d0743cb2a83d" Name="Assets/GameMain/UI/UIForms/MenuForm.prefab" Length="37012" HashCode="614725490">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/button-outline.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="3aa539b1e46111d4299a83c73ebe762c" Name="Assets/GameMain/UI/UIForms/AboutForm.prefab" Length="21384" HashCode="752796115">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Logos/unity-logo.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="bbfd75fe6fe00e1448fe988173ede7f9" Name="Assets/GameMain/UI/UIForms/SettingForm.prefab" Length="148917" HashCode="152412542">
+            <DependencyAssets Count="15">
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/box.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/button-outline.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/checked.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/circle.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/dialog-background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/dialog-title-background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/info.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/line.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/progressbar.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/progressbar-background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/progress-conner.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Icons/music.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Icons/sound.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Icons/world.png" />
+            </DependencyAssets>
+          </Asset>
+        </Assets>
+        <Codes>
+          <Android Length="23529" HashCode="-444255588" ZipLength="20725" ZipHashCode="2143513339" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UISounds" Extension="dat" FileSystem="UI" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="c7d1e11dd37634b48a9dd4012b8e4306" Name="Assets/GameMain/UI/UISounds/click.wav" Length="41568" HashCode="-1547829698" />
+          <Asset Guid="e830964cdb85ff3429bca484c16bab44" Name="Assets/GameMain/UI/UISounds/select.wav" Length="41568" HashCode="-1920478215" />
+        </Assets>
+        <Codes>
+          <Android Length="2479" HashCode="-1313059427" ZipLength="2144" ZipHashCode="-1795640092" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UISprites/Common" Extension="dat" FileSystem="UI" LoadType="0" Packed="True">
+        <Assets Count="17">
+          <Asset Guid="0179316b5fc7c2946a67c5877c02fc30" Name="Assets/GameMain/UI/UISprites/Common/info.png" Length="1869" HashCode="1439065304" />
+          <Asset Guid="0a65a68c01a76ea4b8b574827a6467aa" Name="Assets/GameMain/UI/UISprites/Common/dialog-title-background.png" Length="1614" HashCode="-248782138" />
+          <Asset Guid="156d241f796508c4da4fc354a7fbf5a8" Name="Assets/GameMain/UI/UISprites/Common/progressbar-background.png" Length="784" HashCode="-1146856258" />
+          <Asset Guid="236433a27ce40a7429b87d14d8fa3035" Name="Assets/GameMain/UI/UISprites/Common/progress-conner.png" Length="576" HashCode="-1226923544" />
+          <Asset Guid="24ca310f92a6796408f1db7647ec4e55" Name="Assets/GameMain/UI/UISprites/Common/circle.png" Length="1365" HashCode="1330959776" />
+          <Asset Guid="3be3fac3611f4584695662c4889f722d" Name="Assets/GameMain/UI/UISprites/Common/circle-outline.png" Length="20881" HashCode="-260484534" />
+          <Asset Guid="3f54fcfdac53aec42ae18a6a1c6d8cb1" Name="Assets/GameMain/UI/UISprites/Common/checked.png" Length="15921" HashCode="-1098762055" />
+          <Asset Guid="56b8df63bbad60749a69e38bc687fadf" Name="Assets/GameMain/UI/UISprites/Common/circle-filled.png" Length="16998" HashCode="964408779" />
+          <Asset Guid="62af9e5c8f39cfa49af9e10ccf42f1da" Name="Assets/GameMain/UI/UISprites/Common/round-button-outline.png" Length="3345" HashCode="451796798" />
+          <Asset Guid="6cbc2c323b77f804fb958fa4eca33998" Name="Assets/GameMain/UI/UISprites/Common/line.png" Length="797" HashCode="1722275133" />
+          <Asset Guid="9f847ec5e66e03e4ead1d3c5f7b510e8" Name="Assets/GameMain/UI/UISprites/Common/button-filled.png" Length="1467" HashCode="1095020050" />
+          <Asset Guid="a8c07bbe04fdaf04b80e27f651a8edd6" Name="Assets/GameMain/UI/UISprites/Common/button-outline.png" Length="1683" HashCode="-837309841" />
+          <Asset Guid="ab45c3f613f388d43bbf43ec05eb92e2" Name="Assets/GameMain/UI/UISprites/Common/dialog-background.png" Length="7706" HashCode="1348455424" />
+          <Asset Guid="cadd0764941c8b646ae79b51d0ea8285" Name="Assets/GameMain/UI/UISprites/Common/background.png" Length="5175294" HashCode="1806783389" />
+          <Asset Guid="e82837c9099f69a48b48fc44eb8d119d" Name="Assets/GameMain/UI/UISprites/Common/progressbar.png" Length="24724" HashCode="706154886" />
+          <Asset Guid="e85864330b68dde498dcb6e8711815d3" Name="Assets/GameMain/UI/UISprites/Common/round-button-filled.png" Length="2690" HashCode="-105002164" />
+          <Asset Guid="f2f4df0b7211e4c42a5638273525d8ee" Name="Assets/GameMain/UI/UISprites/Common/box.png" Length="1058" HashCode="-2109500730" />
+        </Assets>
+        <Codes>
+          <Android Length="142844" HashCode="-873281753" ZipLength="88139" ZipHashCode="1356309267" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UISprites/Icons" Extension="dat" FileSystem="UI" LoadType="0" Packed="True">
+        <Assets Count="3">
+          <Asset Guid="db58965402f12ed47b4dad61a9e48c9d" Name="Assets/GameMain/UI/UISprites/Icons/world.png" Length="18113" HashCode="220145781" />
+          <Asset Guid="e5ca26c53b6ab8a46b52817008d7c7fa" Name="Assets/GameMain/UI/UISprites/Icons/sound.png" Length="16337" HashCode="-2031218235" />
+          <Asset Guid="f438a72a91e1c3c4a9ced40888ffec96" Name="Assets/GameMain/UI/UISprites/Icons/music.png" Length="16152" HashCode="-1208903891" />
+        </Assets>
+        <Codes>
+          <Android Length="7285" HashCode="1484591649" ZipLength="6155" ZipHashCode="-1665212579" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UISprites/Logos" Extension="dat" FileSystem="UI" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="7f5aee8da226edf4991598327cb32ce0" Name="Assets/GameMain/UI/UISprites/Logos/unity-logo.png" Length="39531" HashCode="1403969223" />
+        </Assets>
+        <Codes>
+          <Android Length="15334" HashCode="1372906695" ZipLength="12467" ZipHashCode="-921337390" />
+        </Codes>
+      </Resource>
+    </Resources>
+  </BuildReport>
+</UnityGameFramework>

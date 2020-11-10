@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 908469344
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: configs
+      Dependencies: {}
+    Info_1:
+      Name: datatables
+      Dependencies: {}
+    Info_2:
+      Name: fonts
+      Dependencies: {}
+    Info_3:
+      Name: localization/dictionaries.en-us
+      Dependencies: {}
+    Info_4:
+      Name: localization/dictionaries.ko-kr
+      Dependencies: {}
+    Info_5:
+      Name: localization/dictionaries.zh-cn
+      Dependencies: {}
+    Info_6:
+      Name: localization/dictionaries.zh-tw
+      Dependencies: {}
+    Info_7:
+      Name: materials
+      Dependencies:
+        Dependency_0: textures
+    Info_8:
+      Name: music/about
+      Dependencies: {}
+    Info_9:
+      Name: music/background
+      Dependencies: {}
+    Info_10:
+      Name: music/menu
+      Dependencies: {}
+    Info_11:
+      Name: scenes
+      Dependencies:
+        Dependency_0: materials
+    Info_12:
+      Name: textures
+      Dependencies: {}
+    Info_13:
+      Name: ui/uiforms
+      Dependencies:
+        Dependency_0: ui/uisprites/common
+        Dependency_1: ui/uisprites/icons
+        Dependency_2: ui/uisprites/logos
+    Info_14:
+      Name: ui/uisounds
+      Dependencies: {}
+    Info_15:
+      Name: ui/uisprites/common
+      Dependencies: {}
+    Info_16:
+      Name: ui/uisprites/icons
+      Dependencies: {}
+    Info_17:
+      Name: ui/uisprites/logos
+      Dependencies: {}

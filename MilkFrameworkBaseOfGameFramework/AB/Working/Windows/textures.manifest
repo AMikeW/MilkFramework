@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2437643579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77b356eb2b613e4ed18fb1220f6fbf18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Textures/tile_nebula_green_dff.tif
+Dependencies: []

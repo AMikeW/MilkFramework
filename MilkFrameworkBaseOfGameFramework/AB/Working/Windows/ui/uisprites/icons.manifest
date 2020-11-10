@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1529691211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ec9c2425fa438dcbda8ba67f870a6b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/UI/UISprites/Icons/world.png
+- Assets/GameMain/UI/UISprites/Icons/sound.png
+- Assets/GameMain/UI/UISprites/Icons/music.png
+Dependencies: []

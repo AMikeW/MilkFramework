@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 718284626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02d4f2a2ccade37115ba13098c3668e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 669aa8948e97606392ac8f5392e5c83b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2712544bc58b0e44aa9df7e58e01e5c5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Scenes/Menu.unity
+- Assets/GameMain/Scenes/Main.unity
+Dependencies:
+- D:/ChromeCoreDownloads/jiangyin-StarForce-master/StarForce/AB/Working/Android/materials

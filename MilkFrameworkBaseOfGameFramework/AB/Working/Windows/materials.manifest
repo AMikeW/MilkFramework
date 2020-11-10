@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3060502616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dd371480abb28669b780ed59f445ea4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Materials/part_star_mat.mat
+- Assets/GameMain/Materials/done_tile_nebula_green_dff.mat
+Dependencies:
+- E:/UnityProject/MilkMatchGame_GF_Proj/AB/Working/Windows/textures

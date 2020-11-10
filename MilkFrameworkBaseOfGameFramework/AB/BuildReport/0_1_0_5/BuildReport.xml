@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>Star Force</ProductName>
+      <CompanyName>Game Framework</CompanyName>
+      <GameIdentifier>unity.Game Framework.Star Force</GameIdentifier>
+      <GameFrameworkVersion>2020.07.30</GameFrameworkVersion>
+      <UnityVersion>2017.4.32f1</UnityVersion>
+      <ApplicableGameVersion>0.1.0</ApplicableGameVersion>
+      <InternalResourceVersion>5</InternalResourceVersion>
+      <Platforms>Windows</Platforms>
+      <ZipSelected>True</ZipSelected>
+      <BuildAssetBundleOptions>272</BuildAssetBundleOptions>
+    </Summary>
+    <Resources Count="0" />
+  </BuildReport>
+</UnityGameFramework>
